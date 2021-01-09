@@ -7,3 +7,4 @@ the source code is provided here.
 
 - [index.html](index.html) is the main file
 - [about.html](about.html) gives the about section of the page.
+- i am trying to improve this website and hopefully can make it fine.
